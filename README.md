@@ -20,3 +20,24 @@ O cálculo é feito com a fórmula:
 
 ```text
 NPS = % de Promotores − % de Detratores
+
+🛠️ Como rodar o projeto
+1. Clonar o repositório
+git clone https://github.com/victorjls21/NPS.git
+cd NPS
+
+2. Rodar o programa
+python nps.py
+
+📌 Uso do programa
+
+Ao rodar o script, você verá:
+
+----- Pesquisa de satisfação -----
+Digite 'sair' para encerrar.
+
+Em uma escala de 0 a 10, o quanto você recomendaria nossa empresa?
+
+
+Basta digitar as notas.
+Quando terminar, digite sair para calcular o NPS e exibir a classificação.
