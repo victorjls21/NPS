@@ -18,10 +18,10 @@ As respostas são classificadas assim:
 
 O cálculo é feito com a fórmula:
 
-```text
+
 NPS = % de Promotores − % de Detratores
 
-🛠️ Como rodar o projeto
+## 🛠️ Como rodar o projeto
 1. Clonar o repositório
 git clone https://github.com/victorjls21/NPS.git
 cd NPS
@@ -29,7 +29,7 @@ cd NPS
 2. Rodar o programa
 python nps.py
 
-📌 Uso do programa
+## 📌 Uso do programa
 
 Ao rodar o script, você verá:
 
